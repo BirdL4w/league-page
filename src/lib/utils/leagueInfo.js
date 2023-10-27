@@ -122,7 +122,7 @@ export const managers = [
      "ManagerID": "458849508160172032",
       "name": "Benjamin Ford",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Brooklyn", // (optional)
+      "location": "Fridley, MN", // (optional)
       "bio": "Ass Ass Ass Ass..",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -300,7 +300,7 @@ export const managers = [
       "philosophy": "Your fantasy team's philosophy",
       "tradingScale": 8, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    }
   
   ]
   
