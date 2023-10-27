@@ -33,7 +33,7 @@ export const managers = [
       "location": "Somewhere, Minnesota", // (optional)
       "bio": "TDs Bio Section",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "Division Wins": 0, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
